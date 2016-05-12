@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--All credit for this workout plan should go to Lee Labrada. This workout plan can be found in it's entirety at http://www.bodybuilding.com/fun/lee-labrada-12-week-lean-body-trainer.html-->
+<!--If you ever want to look up how to do an exercise or need ideas for ways to target any muscle group, this is a great tool for that. http://www.bodybuilding.com/exercises/ Just click on the muscle you want to focus on and it will give you a list that you can narrow down by equipment needed among other things.-->
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Sean's Workout Day 1</title>
+	</head>
+	<body>
+		<table>
+			<thead>
+				<th>Exercise</th>
+				<th>Set 1</th>
+				<th>Set 2</th>
+			</thead>
+<!--When entering the weight and number of reps accomplished, I usually prefer to write it as WeightxReps. So if I did 45lbs 10 times, I would write it as 45x10.-->
+			<tbody>
+				<tr>
+					<td><a href="http://www.bodybuilding.com/exercises/main/popup/name/bent-over-two-dumbbell-row">Bent Over Dumbbell Row</a></td>
+					<td style="width:150px"><input type="text" style="width:100%"/></td>
+					<td style="width:150px"><input type="text" style="width:100%"/></td>
+				</tr>
+				<tr>
+					<td><a href="http://www.bodybuilding.com/exercises/main/popup/name/pullups">Pullups</a></td>
+					<td style="width:150px"><input type="text" style="width:100%"/></td>
+					<td style="width:150px"><input type="text" style="width:100%"/></td>
+				</tr>
+<!--This next one calls for 2 sets of Wide Grip Barbell Curls, let's go ahead and substitute that with Preacher Dumbbell Curls. You can lay your arm over the back of your computer chair in a pinch.-->
+				<tr>
+					<td><a href="http://www.bodybuilding.com/exercises/detail/view/name/one-arm-dumbbell-preacher-curl">Preacher Dumbbell Curls</a></td>
+					<td style="width:150px"><input type="text" style="width:100%"/></td>
+					<td style="width:150px"><input type="text" style="width:100%"/></td>
+				</tr>
+				<tr>
+					<td><a href="http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-alternate-bicep-curl">Dumbbell Alternating Bicep Curl</a></td>
+					<td style="width:150px"><input type="text" style="width:100%"/></td>
+					<td style="width:150px"><input type="text" style="width:100%"/></td>
+				</tr>
+			</tbody>
+		</table>
+		<p>After the lifting, you should head to the elliptical trainer.</p>
+		<p>Minutes 1-2: Level One (Easy Resistance)</p>
+		<p>Minutes 3-5: Level Two (Moderate Resistance)</p>
+		<p>Minutes 6-9: Level Three (Difficult Resistance)</p>
+		<p>Minutes 10-11: Level Two</p>
+		<p>Minutes 12-15: Level Three</p>
+		<p>Minutes 16-17: Level Two</p>
+		<p>Minutes 18-21: Level Three</p>
+		<p>Minutes 22-24: Level Two</p>
+		<p>Minutes 25-26: Level One</p>
+	</body>
